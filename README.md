@@ -1,4 +1,4 @@
-# AI Calorie Copilot: Nutrition Assistant 🍴🤖
+# AI Calorie Copilot: Nutrition Assistant
 
 This project builds an **AI-powered nutrition assistant** that generates 
 **calorie-aligned Indian meal plans** from a structured dataset.  
@@ -11,7 +11,7 @@ It uses:
 
 ---
 
-## 🚀 Features
+## Features
 - Generates personalized Indian meal plans from **user inputs**.
 - Indexed a **15-day meal plan (75+ entries)** into Pinecone.
 - Configured an **AI agent with guardrails** for accuracy.
@@ -19,7 +19,7 @@ It uses:
 
 ---
 
-## 📊 Example
+## Example
 **Input:**  
 `2000 calories, vegetarian, high protein`
 
