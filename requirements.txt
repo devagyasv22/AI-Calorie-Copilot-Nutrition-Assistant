@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-pinecone
+pinecone-client
+pinecone-client
+openai
+fastapi
+streamlit
+pandas
+streamlit

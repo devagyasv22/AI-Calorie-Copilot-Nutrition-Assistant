@@ -1,0 +1,101 @@
+meal_name,calories,protein(g),carbs(g),fat(g),diet_type
+Paneer Tikka #1,320,25,8,18,vegetarian
+Chole Bhature #1,450,15,65,12,vegetarian
+Aloo Paratha #1,350,10,55,11,vegetarian
+Vegetable Pulao #1,400,8,70,9,vegetarian
+Dal Tadka #1,280,12,40,7,vegetarian
+Chana Masala #1,280,15,35,8,vegan
+Baingan Bharta #1,220,5,20,10,vegan
+Tofu Curry #1,300,20,18,12,vegan
+Vegetable Stir Fry #1,250,8,30,9,vegan
+Lentil Soup #1,260,16,34,6,vegan
+Grilled Chicken Salad #1,400,40,12,20,non-vegetarian
+Butter Chicken #1,480,35,20,25,non-vegetarian
+Fish Curry #1,350,32,15,18,non-vegetarian
+Egg Curry #1,300,20,10,15,non-vegetarian
+Mutton Rogan Josh #1,500,38,18,28,non-vegetarian
+Grilled Salmon #1,420,42,10,24,pescatarian
+Prawn Masala #1,360,30,14,18,pescatarian
+Fish Tacos #1,380,28,40,14,pescatarian
+Tuna Salad #1,300,32,8,12,pescatarian
+Fish Biryani #1,450,34,50,16,pescatarian
+Paneer Tikka #2,325,27,11,19,vegetarian
+Chole Bhature #2,455,17,68,13,vegetarian
+Aloo Paratha #2,355,12,58,12,vegetarian
+Vegetable Pulao #2,405,10,73,10,vegetarian
+Dal Tadka #2,285,14,43,8,vegetarian
+Chana Masala #2,285,17,38,9,vegan
+Baingan Bharta #2,225,7,23,11,vegan
+Tofu Curry #2,305,22,21,13,vegan
+Vegetable Stir Fry #2,255,10,33,10,vegan
+Lentil Soup #2,265,18,37,7,vegan
+Grilled Chicken Salad #2,405,42,15,21,non-vegetarian
+Butter Chicken #2,485,37,23,26,non-vegetarian
+Fish Curry #2,355,34,18,19,non-vegetarian
+Egg Curry #2,305,22,13,16,non-vegetarian
+Mutton Rogan Josh #2,505,40,21,29,non-vegetarian
+Grilled Salmon #2,425,44,13,25,pescatarian
+Prawn Masala #2,365,32,17,19,pescatarian
+Fish Tacos #2,385,30,43,15,pescatarian
+Tuna Salad #2,305,34,11,13,pescatarian
+Fish Biryani #2,455,36,53,17,pescatarian
+Paneer Tikka #3,330,29,14,20,vegetarian
+Chole Bhature #3,460,19,71,14,vegetarian
+Aloo Paratha #3,360,14,61,13,vegetarian
+Vegetable Pulao #3,410,12,76,11,vegetarian
+Dal Tadka #3,290,16,46,9,vegetarian
+Chana Masala #3,290,19,41,10,vegan
+Baingan Bharta #3,230,9,26,12,vegan
+Tofu Curry #3,310,24,24,14,vegan
+Vegetable Stir Fry #3,260,12,36,11,vegan
+Lentil Soup #3,270,20,40,8,vegan
+Grilled Chicken Salad #3,410,44,18,22,non-vegetarian
+Butter Chicken #3,490,39,26,27,non-vegetarian
+Fish Curry #3,360,36,21,20,non-vegetarian
+Egg Curry #3,310,24,16,17,non-vegetarian
+Mutton Rogan Josh #3,510,42,24,30,non-vegetarian
+Grilled Salmon #3,430,46,16,26,pescatarian
+Prawn Masala #3,370,34,20,20,pescatarian
+Fish Tacos #3,390,32,46,16,pescatarian
+Tuna Salad #3,310,36,14,14,pescatarian
+Fish Biryani #3,460,38,56,18,pescatarian
+Paneer Tikka #4,335,31,17,21,vegetarian
+Chole Bhature #4,465,21,74,15,vegetarian
+Aloo Paratha #4,365,16,64,14,vegetarian
+Vegetable Pulao #4,415,14,79,12,vegetarian
+Dal Tadka #4,295,18,49,10,vegetarian
+Chana Masala #4,295,21,44,11,vegan
+Baingan Bharta #4,235,11,29,13,vegan
+Tofu Curry #4,315,26,27,15,vegan
+Vegetable Stir Fry #4,265,14,39,12,vegan
+Lentil Soup #4,275,22,43,9,vegan
+Grilled Chicken Salad #4,415,46,21,23,non-vegetarian
+Butter Chicken #4,495,41,29,28,non-vegetarian
+Fish Curry #4,365,38,24,21,non-vegetarian
+Egg Curry #4,315,26,19,18,non-vegetarian
+Mutton Rogan Josh #4,515,44,27,31,non-vegetarian
+Grilled Salmon #4,435,48,19,27,pescatarian
+Prawn Masala #4,375,36,23,21,pescatarian
+Fish Tacos #4,395,34,49,17,pescatarian
+Tuna Salad #4,315,38,17,15,pescatarian
+Fish Biryani #4,465,40,59,19,pescatarian
+Paneer Tikka #5,340,33,20,22,vegetarian
+Chole Bhature #5,470,23,77,16,vegetarian
+Aloo Paratha #5,370,18,67,15,vegetarian
+Vegetable Pulao #5,420,16,82,13,vegetarian
+Dal Tadka #5,300,20,52,11,vegetarian
+Chana Masala #5,300,23,47,12,vegan
+Baingan Bharta #5,240,13,32,14,vegan
+Tofu Curry #5,320,28,30,16,vegan
+Vegetable Stir Fry #5,270,16,42,13,vegan
+Lentil Soup #5,280,24,46,10,vegan
+Grilled Chicken Salad #5,420,48,24,24,non-vegetarian
+Butter Chicken #5,500,43,32,29,non-vegetarian
+Fish Curry #5,370,40,27,22,non-vegetarian
+Egg Curry #5,320,28,22,19,non-vegetarian
+Mutton Rogan Josh #5,520,46,30,32,non-vegetarian
+Grilled Salmon #5,440,50,22,28,pescatarian
+Prawn Masala #5,380,38,26,22,pescatarian
+Fish Tacos #5,400,36,52,18,pescatarian
+Tuna Salad #5,320,40,20,16,pescatarian
+Fish Biryani #5,470,42,62,20,pescatarian
