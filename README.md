@@ -31,4 +31,4 @@ It uses:
 
 ---
 
-👨‍💻 Author: [Devagya Singh Vats](https://github.com/devagyasv22)
+Author: [Devagya Singh Vats](https://github.com/devagyasv22)
